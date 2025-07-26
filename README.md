@@ -1,4 +1,12 @@
-# 🚀 cppOOPconcepts
+# 🚀 Cpp-OOP-Concepts
+
+![GitHub Repo stars](https://img.shields.io/github/stars/talalhafizmuhammad/Cpp-OOP-Concepts?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/talalhafizmuhammad/Cpp-OOP-Concepts?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/talalhafizmuhammad/Cpp-OOP-Concepts?style=flat-square)
+![License](https://img.shields.io/github/license/talalhafizmuhammad/Cpp-OOP-Concepts?style=flat-square)
+
+
+# 🚀 Cpp-OOP-Concepts
 
 A modern and beginner-friendly C++ project focused on Object-Oriented Programming (OOP) foundations — explained through compact, real-world code examples.
 
@@ -41,5 +49,5 @@ C++ can be intimidating, but it doesn’t have to be. This repo simplifies OOP b
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cppOOPconcepts.git
-   cd cppOOPconcepts
+   git clone https://github.com/talalhafizmuhammad/Cpp-OOP-Concepts.git
+   cd Cpp-OOP-Concepts
