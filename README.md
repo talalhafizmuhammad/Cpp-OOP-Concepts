@@ -6,8 +6,6 @@
 ![License](https://img.shields.io/github/license/talalhafizmuhammad/Cpp-OOP-Concepts?style=flat-square)
 
 
-# 🚀 Cpp-OOP-Concepts
-
 A modern and beginner-friendly C++ project focused on Object-Oriented Programming (OOP) foundations — explained through compact, real-world code examples.
 
 This project is ideal for students, revision sessions, and anyone looking to solidify their understanding of key OOP concepts in C++ with simplicity and clarity.
