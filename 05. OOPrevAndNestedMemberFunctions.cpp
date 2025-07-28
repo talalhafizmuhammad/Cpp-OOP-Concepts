@@ -22,7 +22,7 @@
 
 using namespace std;
 
-class binary   //creating a binary class
+class Binary   //creating a binary class
 {
 private:
     string s;  
@@ -35,14 +35,14 @@ public:
     void display(void);
 };
 
-void binary ::getBin(void)
+void Binary ::getBin(void)
 {
     cout << "Enter a binary number: ";
     cin >> s;
     checkBin();    //nested member function used
 }
 
-void binary ::checkBin(void)
+void Binary ::checkBin(void)
 {
     for (int i = 0; i < s.length(); i++)
     {
@@ -61,7 +61,7 @@ void binary ::checkBin(void)
     }
 }
 
-void binary :: onesCompliment(void)
+void Binary :: onesCompliment(void)
 {
     for (int i = 0; i < s.length(); i++)
     {
@@ -75,10 +75,10 @@ void binary :: onesCompliment(void)
         }
     }
     cout << "Your number in 1's compliment is: " << s << endl;
-    exit(0);
+    return;
 }
 
-void binary :: display(void)
+void Binary :: display(void)
 {
     cout << "Your binary number is: " << s << endl;
 
@@ -86,7 +86,7 @@ void binary :: display(void)
 int main()
 {
     cout << "\n----- BINARY NUMBER HANDLER -----\n";
-    binary b;
+    Binary b;
     b.getBin();
     // b.checkBin(); throws error, as private.
     char choice;
