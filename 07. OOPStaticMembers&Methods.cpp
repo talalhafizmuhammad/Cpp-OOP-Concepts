@@ -32,7 +32,7 @@ public:
     {
         cout << "Enter the ID of employee: ";
         cin >> id;
-        count += 1;
+        count += 1;  // can be initialized or incremented/decremented anywhere
     }
     void displayData(void)
     {
