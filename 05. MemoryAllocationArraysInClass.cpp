@@ -9,8 +9,7 @@ Key Concepts Covered:
 - Demonstrates how arrays behave as class data members
 - Shows that memory is allocated only when an object is instantiated
 - Illustrates class encapsulation, array manipulation, and object interaction
-*/
-/*
+
 This example demonstrates memory allocation and the use of arrays in C++ classes. It highlights that memory for class arrays is allocated only when an object of the class
 is instantiated. The arrays used as data members are statically allocated in stack memory. The class methods provide controlled access to these private arrays, illustrating
 encapsulation and proper object-oriented design principles.
