@@ -32,7 +32,7 @@ Master the building blocks of C++ with real, hands-on code examples covering:
 
 ---
 
-## 💡 Why This Project?
+## ❓ Why This Project?
 
 C++ can be intimidating, but it doesn’t have to be. This repo simplifies OOP by:
 
