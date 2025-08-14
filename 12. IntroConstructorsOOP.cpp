@@ -20,7 +20,7 @@ public:
         cout << "Your number is " << a << " + " << b << "i" << endl;
     }
 };
-Complex ::Complex(void)
+Complex :: Complex(void)   //-->>constructor used
 {
     a = 4;
     b = 7;
@@ -39,5 +39,6 @@ int main()
     // 2. They are automatically invoked whenever the object is created
     // 3. They cannot have return values and do not have return types (not even void)
     // 4. It can have default arguments, as it behaves like a simple member function
-    // 5. We cannot refer their address
+    // 5. We cannot refer to their address
+
 
