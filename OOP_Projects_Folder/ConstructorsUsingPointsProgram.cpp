@@ -1,3 +1,5 @@
+// This program simply takes two points as input from user and display the distances betweeen them, uses friend functions and parameterized constructors
+
 #include <iostream>
 #include <iomanip>
 #include <cmath>
@@ -43,3 +45,4 @@ int main()
 
     return 0;
 }
+
