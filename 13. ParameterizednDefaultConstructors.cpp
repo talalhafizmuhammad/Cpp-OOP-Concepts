@@ -46,7 +46,8 @@ int main()
 {
     Complex c1;          // Default constructor
     c1.print();
-    Complex c2(5, 7);   // Parameterized constructor
+    Complex c2(5, 7); // Parameterized constructor (direct init)
+ // Complex c2 = Complex(5, 7); // Also parameterized constructor (copy and use)
     c2.print();
     
     return 0;
