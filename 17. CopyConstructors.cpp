@@ -1,5 +1,5 @@
 #include <iostream>
-
+// Copy constructors help us in copying the exact value of an object to another object or objects
 using namespace std;
 
 class Numbers
@@ -33,3 +33,4 @@ int main()
     b.print();     // 45 (same as a2 (copy constructor))
     return 0;
 }
+
